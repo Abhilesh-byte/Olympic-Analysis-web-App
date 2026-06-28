@@ -1,19 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="14232df1-4ae9-485c-b801-a4c2d4f201a9" name="Changes" comment="" />
+    <list default="true" id="14232df1-4ae9-485c-b801-a4c2d4f201a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.ai/mcp/mcp.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitgnore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitgnore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Olympic-Analysis-web-App.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Olympic-Analysis-web-App.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preprocessor.py" beforeDir="false" afterPath="$PROJECT_DIR$/preprocessor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="20" />
+  </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1,
-  "fromUser": false
-}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0008100256456567" />
+      <entry key="MS500" value="1.5812335772881831" />
+      <entry key="S2" value="6.036573415869546" />
+      <entry key="S5" value="10.685623387401291" />
+      <entry key="S10" value="13.364666678011483" />
+      <entry key="S30" value="15.660710172022977" />
+      <entry key="S60" value="16.312856767276458" />
+      <entry key="M2" value="16.65192691746158" />
+      <entry key="M5" value="16.859673726634288" />
+      <entry key="M10" value="16.929652613482855" />
+      <entry key="M15" value="16.95306069279833" />
+      <entry key="M30" value="16.97650979529184" />
+      <entry key="H1" value="16.988249754923046" />
+      <entry key="H2" value="16.994123591161998" />
+      <entry key="H4" value="16.99706147392874" />
+      <entry key="D1" value="16.999510200974292" />
+      <entry key="W1" value="16.999930027616315" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.973442608975189" />
+      <entry key="MS500" value="1.5708698548821958" />
+      <entry key="S2" value="6.015067974827615" />
+      <entry key="S5" value="10.66534888537891" />
+      <entry key="S10" value="13.350657696884783" />
+      <entry key="S30" value="15.654862055505887" />
+      <entry key="S60" value="16.309760081445763" />
+      <entry key="M2" value="16.65033327077359" />
+      <entry key="M5" value="16.859025108783023" />
+      <entry key="M10" value="16.92932642034462" />
+      <entry key="M15" value="16.952842810170655" />
+      <entry key="M30" value="16.9764006432531" />
+      <entry key="H1" value="16.988195126136574" />
+      <entry key="H2" value="16.994096263566238" />
+      <entry key="H4" value="16.997047806828885" />
+      <entry key="D1" value="16.999507922665597" />
+      <entry key="W1" value="16.99992970213241" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3Fdr3GgV9Vt055QIzH9r2qD61uw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,11 +112,21 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -45,7 +145,20 @@
       <option name="presentableId" value="Default" />
       <updated>1782415589683</updated>
       <workItem from="1782415591789" duration="5000" />
+      <workItem from="1782639453836" duration="72000" />
+      <workItem from="1782639536119" duration="27000" />
+      <workItem from="1782639578351" duration="237000" />
+      <workItem from="1782640388813" duration="2085000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="Procfile" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
   </component>
 </project>
