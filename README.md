@@ -3,8 +3,7 @@
 An interactive web application for exploring 120 years of Olympic history (1896–2016), built with **Python** and **Streamlit**. The app analyzes athlete, country, and medal data to surface trends in participation, performance, and growth across editions of the Games.
 
 ## 🔗 Live Demo
-
-[Add your Streamlit Cloud app link here]
+https://abhi-olympic-analysis-web-app.streamlit.app/
 
 ## 📊 Features
 
